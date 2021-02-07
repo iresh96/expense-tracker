@@ -4,7 +4,7 @@ Go and have a look [Expense Tracker](https://github.com/facebook/create-react-ap
 
 ### Env Variables
 
-Create a .env file in then root and add the following
+Create a .env file in then "config" folder and add the following
 
 ```
 NODE_ENV = development
