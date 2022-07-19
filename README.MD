@@ -1,5 +1,3 @@
-Go and have a look [Expense Tracker].
-
 ## Usage
 
 ### Env Variables
