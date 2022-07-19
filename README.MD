@@ -1,4 +1,4 @@
-Go and have a look [Expense Tracker](https://github.com/facebook/create-react-app).
+Go and have a look [Expense Tracker].
 
 ## Usage
 
