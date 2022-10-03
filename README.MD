@@ -1,5 +1,7 @@
 ### Hacktoberfest 2022
 
+## Pull requests are welcome
+
 ### Steps to run the project
 * Fork the repo
 * Clone into local
