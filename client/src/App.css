@@ -90,7 +90,7 @@ input[type="number"] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #8b74fc;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
@@ -115,7 +115,7 @@ input[type="number"] {
 }
 
 .list li {
-  background-color: #fff;
+  background-color: #ffffff;
   box-shadow: var(--box-shadow);
   color: #333;
   display: flex;
