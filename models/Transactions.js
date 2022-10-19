@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const TransctionSchema = new mongoose.Schema({
+const TransactionSchema = new mongoose.Schema({
   text: {
     type: String,
     trim: true,
@@ -16,4 +16,4 @@ const TransctionSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("Transaction", TransctionSchema);
+module.exports = mongoose.model("Transaction", TransactionSchema);
